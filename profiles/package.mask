@@ -1,0 +1,11 @@
+# Mask every sys-fs/zfs version carried by this overlay.
+=sys-fs/zfs-2.1.16
+=sys-fs/zfs-2.2.8
+=sys-fs/zfs-2.2.9
+=sys-fs/zfs-2.3.3
+=sys-fs/zfs-2.3.4
+=sys-fs/zfs-2.3.5
+=sys-fs/zfs-2.4.0
+=sys-fs/zfs-2.4.1
+=sys-fs/zfs-2.4.2
+=sys-fs/zfs-9999
